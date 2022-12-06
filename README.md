@@ -5,7 +5,8 @@ The code used within this mini-repository builds upon that in FootSim (https://g
 
 The data used within this simulations is part of a larger project, titled "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours" (Cleland et al., in prep.). Further data and code related to this project can be found at https://github.com/LClel/project_insole.
 
-This repository contains:
+### This repository contains:
 * /data - raw data files
 * /processed_data - processed data that can be loaded in to generate only the figures
 * /code - the code used to generate figures
+* /figures - figures generated using the code

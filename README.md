@@ -1,4 +1,4 @@
-# FootSim_insole_demonstration
+# FootSim insole demonstration
 ## Code and data used to simulate tactile responses to steps in "Modelling foot sole cutaneous afferents (FootSim)" (Katic et al., under review, iScience)
 
 The code used within this mini-repository builds upon that in FootSim (https://github.com/ActiveTouchLab/footsim-python) to simulate tactile responses to walking

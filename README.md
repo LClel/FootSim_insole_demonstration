@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FootSim_insole_demonstration
 ## Code and data used to simulate tactile responses to steps in "Modelling foot sole cutaneous afferents (FootSim)" (Katic et al. (2023), iScience, 105874-105874)
 
